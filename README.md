@@ -1,3 +1,3 @@
 # Hierarchical-Modelling
 
-As part of a Bayesian Statistics class I was taking, I performed hierarchical modelling on a 
+As part of a homework assignment for a Bayesian Statistics class I was taking, I performed hierarchical modelling to model end of season averages for US baseball players, mortality rates for UK hospitals, and mathematics scores for 10th graders from different US public schools. I also matched predictions with results from JAGS in R. For completions's sake I've uploaded the homework questions and my corresponding solutions, including to problems not related to hierarchical modelling. The data and code are available at the end of the PDF as an appendix. The .Rmd file is available on request.
